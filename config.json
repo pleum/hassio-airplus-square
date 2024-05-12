@@ -1,0 +1,14 @@
+{
+  "name": "AirPlus Square",
+  "description": "AirPlus Square",
+  "version": "0.0.1",
+  "slug": "airplus-square",
+  "init": false,
+  "arch": [
+    "aarch64",
+    "amd64",
+    "armhf",
+    "armv7",
+    "i386"
+  ]
+}
